@@ -1,0 +1,11 @@
+From 1 pm we will start our session with the basics of python
+lunch won't be provided so you will have to come after having lunch
+From Chapter 1 to Chapter 7, we will learn the basic algorithms
+these chapters provide information about basic methods to solve problems using python
+this makes us easily solve problems that will be boring if we did it ourselves, taking way too much time
+From 8 pm, we will have dinner.
+The next day, we will start our sessions quite early
+From Chapter 8, we deal with data structures and organizing data.
+
+
+
